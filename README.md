@@ -2,7 +2,7 @@
 - 👀 I’m interested in meeting friends, going out, skiing, playing tennis
 - 🌱 I’m currently learning Python at my University
 <!-- Test -->
-- ✨ "What should I cook?" is my new project ✨
+✨ "What should I cook?" is my new project ✨
 
 
 
